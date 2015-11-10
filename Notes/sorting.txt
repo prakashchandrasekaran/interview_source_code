@@ -1,5 +1,5 @@
 1) Bubble sort - O(n2)
 2) Insertion sort - O(n2)
 3) Merge sort - O(n logN)
-4) Quick sort
-5) Bucket sort
+4) Quick sort - O(n log N)
+5) Bucket sort - O(n)
